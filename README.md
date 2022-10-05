@@ -1,5 +1,5 @@
 # DragDropList
-Javascript customizable drag and drop list component made with Javascript. (Soon for react)
+Customizable drag and drop list component made with Javascript. (Soon for react)
 ## Usage
     <html>
     	<head>
